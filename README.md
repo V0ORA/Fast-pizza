@@ -1,5 +1,10 @@
 # 🍕Fast-React-Pizza
-![screen1](https://github.com/V0ORA/Fast-pizza/assets/84463892/eeff4613-f5b7-4bb3-9c77-37a29b0b0038) ![screen2](https://github.com/V0ORA/Fast-pizza/assets/84463892/ef1063aa-7378-43d7-9fa1-60fc25f8b400) ![screen3](https://github.com/V0ORA/Fast-pizza/assets/84463892/548a00e3-3ce8-408c-8811-04e119e08cb1)
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github.com/V0ORA/Fast-pizza/assets/84463892/eeff4613-f5b7-4bb3-9c77-37a29b0b0038" alt="screen1" width="30%">
+  <img src="https://github.com/V0ORA/Fast-pizza/assets/84463892/ef1063aa-7378-43d7-9fa1-60fc25f8b400" alt="screen2" width="30%">
+  <img src="https://github.com/V0ORA/Fast-pizza/assets/84463892/548a00e3-3ce8-408c-8811-04e119e08cb1" alt="screen3" width="30%">
+</div>
 
 ## About
 
